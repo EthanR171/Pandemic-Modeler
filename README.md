@@ -2,14 +2,12 @@
 
 A simulation which models the spread of the disease.
 
----
 
 ## ✨ Technologies
 
 - `Java`
 - `Eclipse`
 
----
 
 ## 🚀 Features
 
